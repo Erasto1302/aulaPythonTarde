@@ -22,3 +22,6 @@ print(nomes)
 nomes.append("Ana")
 nomes.append("Lorenza")
 print(nomes)
+
+for x in nomes:
+    print(x)
